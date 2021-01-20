@@ -1,0 +1,7 @@
+*.pdf
+*.png
+*-checkpoint.ipynb
+*pyc
+*.h5
+*.pgf
+*.out
